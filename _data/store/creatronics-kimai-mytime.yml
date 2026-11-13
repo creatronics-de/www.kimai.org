@@ -1,0 +1,15 @@
+developer: creatronics
+icon: fas fa-stream
+demo: false
+subscription: "49 €"
+shop: "https://creatronics.gumroad.com/l/bkozaq"
+changelog: true
+tags: [plugin]
+bundle:
+    name: "MytimeBundle"
+    purchase: true
+screenshots:
+    - creatronics-kimai-mytime0
+    - creatronics-kimai-mytime1
+    - creatronics-kimai-mytime2
+    - creatronics-kimai-mytime3
